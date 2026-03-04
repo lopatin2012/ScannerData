@@ -1,0 +1,29 @@
+{
+    "com_port": {
+        "port": "COM3",
+        "baudrate": 9600,
+        "timeout": 1
+    },
+    "logging": {
+        "enabled": true,
+        "file": "logs/scans.log"
+    },
+    "products": {
+        "04601751028990": {
+            "name": "Protein Max со вкусом клубника-личи Molvest 240г стакан ВО (6)",
+            "image": "img/klubnika_lichi.png"
+        },
+        "04601751028976": {
+            "name": "Protein Max со вкусом кокос-ваниль Molvest 240г стакан ВО (6)",
+            "image": "img/kokos_vanil.png"
+        },
+        "04601751028938": {
+            "name": "Protein Max со вкусом латте-макиато Molvest 240г стакан ВО (6)",
+            "image": "img/latte_makiato.png"
+        },
+        "04601751028945": {
+            "name": "Protein max со вкусом гранат-малина Molvest 240г стакан ВО (6)",
+            "image": "img/granat_malina.png"
+        }
+    }
+}
